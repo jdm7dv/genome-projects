@@ -1,0 +1,42 @@
+GBWorkspace ::= {
+  descr {
+    title "Workspace1",
+    create-date std {
+      year 2017,
+      month 4,
+      day 16,
+      hour 5,
+      minute 6,
+      second 56
+    },
+    modified-date std {
+      year 2017,
+      month 4,
+      day 16,
+      hour 5,
+      minute 12,
+      second 30
+    }
+  },
+  workspace {
+    info {
+      title "Workspace1",
+      create-date std {
+        year 2017,
+        month 4,
+        day 16,
+        hour 5,
+        minute 6,
+        second 56
+      },
+      open TRUE
+    },
+    folders {
+    },
+    projects {
+      {
+        filename "New Project.gbp"
+      }
+    }
+  }
+}
