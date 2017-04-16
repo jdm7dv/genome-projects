@@ -1,0 +1,1 @@
+Genome projects are used using ncbi's genome workbench.
